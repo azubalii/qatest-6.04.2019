@@ -9,5 +9,4 @@ Google search for "Selenium" keyword
 **2.** Install **IntelliJ IDEA**
 - Use the *Community* edition from here: [link](https://www.jetbrains.com/idea/download/#section=windows)
 
-
 :tada:
